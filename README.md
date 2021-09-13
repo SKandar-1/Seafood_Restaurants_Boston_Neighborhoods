@@ -80,9 +80,9 @@ The geograpical coordinate of Boston, Massachusetts 42.3602534, -71.0582912.
 
  
 3.10. K-Nearest Neighbors
-For this project, K-Nearest Neighbors is the preferable algorithm for classification. K-Nearest Neighbors is an algorithm for unsupervised learning. Where the data is 'trained' with data points corresponding to their classification. Once a point is to be predicted, it takes into account the 'K' nearest points to it to determine its classification.
+For this project, K-Nearest Neighbors is the preferable algorithm for classification. K-Nearest Neighbors is an algorithm for unsupervised learning where the data is 'trained' with data points corresponding to their classification. Once a point is to be predicted, it takes into account of the 'K' nearest points to it to determine its classification.
 Elbow method to determine the optimum number of clusters
-It's not always obvious from the scatter plot of the data what should be the optimum number of clusters. The most popular method for determining the optimum number of clusters for k nearest neighbour unsupervised algorithm is the elbow method; where the distortion is plotted against the number of clusters and the elbow in the plot represents the optimum number of clusters. From the plot below it is clear that the optimum number of clusters is 4.
+It's not always obvious from the scatter plot of the data what should be the optimum number of clusters. The most popular method for determining the optimum number of clusters for k nearest neighbour unsupervised algorithm is the elbow method; where the distortion is plotted against the number of clusters and the elbow in the plot represents the optimum number of clusters. 
 
 ![](https://github.com/SKandar-1/Figures/blob/main/Elbow_Method_K.PNG)
 

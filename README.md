@@ -24,6 +24,7 @@ In this project I want to provide a simple recommendation system to the visitors
 
 
 __Description of the Data__
+
 For this project, I will scrap the Boston neighborhoods data from Wikipedia (Neighborhoods in Boston - Wikipedia) using the Beautiful Soup library and I will obtain the restaurant information in Boston neighborhoods from Foursquare using an API. These two sets of data will be merged, a cluster analysis will be performed by the k nearest neighbors regression method followed by the creation of a geographical map using folium library.
 
 

@@ -20,12 +20,12 @@ __Introduction/Business Problem__
 
 The city of Boston is truly a multicultural and diverse city in the United States. It has a lot to offer: rich history, culture, sports, higher education, healthcare, and of course the fresh sea foods. Millions of visitors from all over the world visit Boston every year and many of them crave for Boston’s famous seafood. Locally harvested lobsters, oysters, cod, tuna, and many other species provide a plethora of options to choose from. 
 
-In this project I want to provide a simple recommendation system to the visitors to choose a Boston neighborhood with the highest concentration of seafood restaurants so that they will have many options to choose from. It will provide visual locations of the restaurants in the map which can be zoomed in or out to help planning a better visit. 
+In this project I wanted to provide a simple recommendation system to the visitors to choose a Boston neighborhood with the highest concentration of seafood restaurants so that they will have many options to choose from. It will provide visual locations of the restaurants in the map which can be zoomed in or out to help planning a better visit. 
 
 
 __Description of the Data__
 
-For this project, I will scrap the Boston neighborhoods data from Wikipedia (Neighborhoods in Boston - Wikipedia) using the Beautiful Soup library and I will obtain the restaurant information in Boston neighborhoods from Foursquare using an API. These two sets of data will be merged, a cluster analysis will be performed by the k nearest neighbors regression method followed by the creation of a geographical map using folium library.
+For this project, I scraped the Boston neighborhoods data from Wikipedia (Neighborhoods in Boston - Wikipedia) using the Beautiful Soup library and I obtained the restaurant information in Boston neighborhoods from Foursquare using an API. These two sets of data were merged, a cluster analysis was performed by the k nearest neighbors regression method followed by the creation of a geographical map using folium library.
 
 
 __3. Methodology__
